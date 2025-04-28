@@ -34,7 +34,7 @@ This project implements a hybrid log classification system, combining three comp
    - Main endpoint: http://127.0.0.1:8000/
    - Swagger UI:      http://127.0.0.1:8000/docs
    - ReDoc:           http://127.0.0.1:8000/redoc
-```
+
 
 
 

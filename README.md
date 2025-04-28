@@ -36,9 +36,7 @@ This project implements a hybrid log classification system, combining three comp
    - ReDoc:           http://127.0.0.1:8000/redoc
 ```
 
-## Usage
 
-Upload a CSV file containing logs to the `/classify` endpoint (must have `source` and `log_message` columns). The response is a CSV with an added `target_label` column.
 
 
 

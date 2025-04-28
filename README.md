@@ -39,6 +39,6 @@ This project implements a hybrid log classification system, combining three comp
 ## Usage
 
 Upload a CSV file containing logs to the `/classify` endpoint (must have `source` and `log_message` columns). The response is a CSV with an added `target_label` column.
-EOF
+
 
 
